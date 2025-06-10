@@ -5,7 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/maxfren/max.git
 git push -u origin main
-git add path/to/my_image.png
+git add path/to/gifbang.gif
 git commit -m "Add asset image"
 git push origin main
 
